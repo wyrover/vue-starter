@@ -16,6 +16,10 @@ as 1.0.0 becomes stable.
 This will install the dependencies of this starter website. It will pull in several packages like Vue, Vueify, vue-router, gulp and Laravel Elixir (this is just magic syntactical sugar for gulp, basically).
 
 ```
+npm install bootstrap-sass elixir-vuemaker envify insert-css rest --save-dev
+```
+
+```
 npm install
 ```
 
